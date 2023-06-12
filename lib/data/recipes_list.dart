@@ -1,6 +1,6 @@
 import '../models/recipe.dart';
 
-final recipesList = [
+final List<Recipe> recipesList = [
   Recipe(
     id: 'm1',
     title: 'Spaghetti with Tomato Sauce',
